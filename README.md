@@ -5,6 +5,14 @@
 - 📫 How to reach me jermin2@gmail.com
 
 My projects you should check out:
+
+### Songbook
+The third iteration! 
+https://github.com/jermin2/songbook
+Frontend written in ReactJS, backend in Python. Displays songs with chords in their right places. Contains a parser so you can take a list of songs and format it into a booklet. You can test it using the credentials: 
+username: test
+password: testpassword
+
 ### Verse Viewer
 https://github.com/jermin2/verseViewer
 
