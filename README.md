@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jermin2
 - 👀 I’m interested in ReactJS, Javascript, Flutter, CRM systems
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS and ReactNative, Redux
+- 💞️ I’m looking to start work as a developer.
 - 📫 How to reach me jermin2@gmail.com
 
 My projects you should check out:
