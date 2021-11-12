@@ -20,6 +20,11 @@ https://github.com/jermin2/verseViewer
 
 If you have text with verses in it, it will fetch the verses so you don't need to look up each one. Uses the Recovery Version Text. 
 
+### CS50W
+Projects for completing CS50W web programming course
+
+https://github.com/jermin2/CS50W
+
 
 <!---
 jermin2/jermin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
