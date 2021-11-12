@@ -11,7 +11,7 @@ The third iteration!
 
 https://github.com/jermin2/songbook
 
-Frontend written in ReactJS, backend in Python. Displays songs with chords in their right places. Contains a parser so you can take a list of songs and format it into a booklet. You can test it using the credentials: 
+Frontend written in ReactJS, backend in Python. Displays songs with chords in their right places. Songs can be sorted into books. Contains a parser so you can take a list of songs and format it into a booklet. You can test it using the credentials: 
 - username: `test`
 - password: `testpassword`
 
@@ -25,6 +25,13 @@ Projects for completing CS50W web programming course
 
 https://github.com/jermin2/CS50W
 
+1. Wiki - Wikipedia like online encyclopedia
+2. Commerce - ebay like site with auction
+3. mail - front-end for an email client that makes api calls
+4. social network - twitter like social network for making posts
+5. Songs - online database to find/store/edit songs and sort them into books
+
+All the projects have video demonstrations
 
 <!---
 jermin2/jermin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
