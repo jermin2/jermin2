@@ -5,7 +5,9 @@
 - 📫 How to reach me jermin2@gmail.com
 
 My projects you should check out:
+### Verse Viewer
 https://github.com/jermin2/verseViewer
+
 If you have text with verses in it, it will fetch the verses so you don't need to look up each one. Uses the Recovery Version Text. 
 
 
